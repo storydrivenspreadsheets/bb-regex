@@ -1,22 +1,24 @@
-********************************************
-Anchors: Capturing the Beginning and the End
-********************************************
+*******************************************
+Anchors: Matching the Beginning and the End
+*******************************************
 
+.. contents::
+    :local:
 
 Syntax overview
 ===============
 
-:regexp:`^` - Carat - Beginning of a line
-:regexp:`$` - End of a line
+Carat:
+    :regexp:`^` - Beginning of a line
+
+Dollar sign:
+    :regexp:`$` - End of a line
 
 
+.. include:: _beginning-of-line.rst
 
-Carat ``^`` for beginning of the line
-=====================================
+.. include:: _end-of-line.rst
 
-
-Dollar sign ``$``: the end of the line
-======================================
 
 
 
