@@ -3,13 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Sphinx Hot Tips's documentation!
-===========================================
+Bastards Book of Regular Expressions
+====================================
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   walkthrough/index
+
+
+.. toctree::
+   :maxdepth: 2
+
+   syntax/index
+
+
+.. toctree::
+   :maxdepth: 2
+
+   resources/index
 
 .. todo
    Syntax
@@ -26,6 +39,9 @@ Welcome to Sphinx Hot Tips's documentation!
       - ack
       - ag
       - ripgrep
+   Languages
+      - Python and re
+      - JavaScript
 
 
 
