@@ -2,9 +2,11 @@ Matching the end of a line
 ==========================
 
 
+
+
 .. admonition:: Example
 
-    Match the character ``9`` when it's at the *end of a line*.
+    Match the character ``9`` at the *end of a line*.
 
     Pattern:
         :regexp:`9$`

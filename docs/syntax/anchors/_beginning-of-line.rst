@@ -3,7 +3,7 @@ Matching the beginning of a line
 
 .. admonition:: Example
 
-    Match the letter ``I`` when it's at the *beginning of a line*.
+    Match the letter ``I`` at the *beginning of a line*.
 
     Pattern:
         :regexp:`^I`
