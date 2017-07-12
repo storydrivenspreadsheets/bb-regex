@@ -8,6 +8,9 @@ Introduction
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua.
 
+- :doc:`/articles/regex-limits-and-potential`
+
+
 
 Walkthrough
 ===========
